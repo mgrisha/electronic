@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="template">
+	<name>joomla-electronic</name>
+	<version>1.0.0</version>
+	<creationDate>11.06.2018</creationDate>
+	<author>Melnichuk</author>
+	<authorMail>mgrisha87@gmail.com</authorMail>
+	<authorUrl></authorUrl>
+	<copyright>Copyright (C) 2018 Electronic Company</copyright>
+	<license>TPL_S_LICENCE</license>
+	<description>TPL_S_DESCRIPTION</description>
+	
+	<files>
+		
+		<folder>css</folder>
+		<folder>js</folder>
+		<folder>images</folder>
+		<folder>html</folder>
+		<folder>fonts</folder>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		
+	</files>
+	
+	<positions>
+		
+		<position>position-0</position>
+		<position>position-1</position>
+		<position>position-2</position>
+		<position>position-3</position>
+		<position>position-4</position>
+		<position>position-5</position>
+		<position>position-6</position>
+		<position>position-7</position>
+		<position>position-8</position>
+		<position>position-9</position>
+		<position>position-10</position>
+		<position>position-11</position>
+		<position>position-12</position>
+		<position>position-13</position>
+		<position>position-14</position>
+		
+	</positions>
+	
+
+
+</extension>
